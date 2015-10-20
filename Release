@@ -1,0 +1,8 @@
+Origin: minahokuRepo
+Label: minahoku
+Suite: Stable
+Version: 1.0
+Codename: tangelo
+Architectures: iphoneos-arm
+Components: main
+Description: minahokuのリポジトリ
