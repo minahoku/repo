@@ -1,0 +1,12 @@
+Package: com.minahoku.timeoutjapanese
+Name: Timeout Japanese
+Version: 0.0.3
+Architecture: iphoneos-arm
+Depends: 
+Description: Timeout(0.0.2-5)の日本語化パッケージです。
+Depiction: 
+Homepage: http://seedofhack.wp.xdomain.jp/
+Maintainer: minahoku <minahoku@gmail.com>
+Author: minahoku <minahoku@gmail.com>
+Sponsor: minahoku
+Section: Localization
